@@ -23,7 +23,7 @@ require('pg-destroy-create-db')('postgres://localhost/some_db')
 
 This module exports a single factory function.
 
-### function( connection_string, options ) -> [destroyCreatInterface](./destroyCreateInterface)
+### function( connection_string, options ) -> [destroyCreatInterface](#destroyCreateInterface)
 
 __Options__
 
